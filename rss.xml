@@ -136,16 +136,8 @@ La JCE insta a la población a actualizar su cédula a la versión nueva antes d
     <description><![CDATA[Juan Carlos de los Santos Romero, uno de los cinco acusados de distribuir fentanilo y metanfetamina en New Hampshire, se declaró culpable de conspiración para distribuir estas sustancias. Su sentencia está prevista para el 10 de junio de 2026.
 
 De los Santos Romero era parte de una red de tráfico de drogas con sede en Methuen, involucrada en compras controladas por agentes encubiertos. Fue arrestado en 2024, tras haber estado prófugo, y sus cómplices ya se habían declarado culpables.]]></description>
-    <enclosure url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Nogales_-_CBP_Seizes_More_Than_%241_Million_in_Meth_and_Cocaine_%2830702058460%29.jpg" type="image/jpeg"/>
+    <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Warren_B_Rudman_US_Courthouse.jpg/1200px-Warren_B_Rudman_US_Courthouse.jpg" type="image/jpeg"/>
     <pubDate>Thu, 05 Mar 2026 15:21:29 +0000</pubDate>
-  </item>
-
-  <item>
-    <title><![CDATA[Test]]></title>
-    <link>https://example.com/test</link>
-    <description><![CDATA[Test caption]]></description>
-    <enclosure url="https://example.com/test.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 05 Mar 2026 17:03:26 +0000</pubDate>
   </item>
 </channel>
 </rss>
